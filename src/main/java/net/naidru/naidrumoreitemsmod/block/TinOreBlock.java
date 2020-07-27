@@ -87,7 +87,7 @@ public class TinOreBlock extends NaidruMoreItemsModModElements.ModElement {
 				if (blockAt.getBlock() == Blocks.STONE.getDefaultState().getBlock())
 					blockCriteria = true;
 				return blockCriteria;
-			}), block.getDefaultState(), 18)).withPlacement(Placement.COUNT_RANGE.configure(new CountRangeConfig(20, 20, 20, 40))));
+			}), block.getDefaultState(), 18)).withPlacement(Placement.COUNT_RANGE.configure(new CountRangeConfig(20, 2, 2, 40))));
 		}
 	}
 }

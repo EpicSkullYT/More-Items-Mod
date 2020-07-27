@@ -9,28 +9,50 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tin_ore"
+    },
+    {
+      "name": "TinIngot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ingot"
+    },
+    {
+      "name": "TinIngotFurnace",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ingot_furnace"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.naidru_more_items_mod.tin_ore": "Tin Ore"
+      "block.naidru_more_items_mod.tin_ore": "Tin Ore",
+      "item.naidru_more_items_mod.tin_ingot": "Tin Ingot"
     }
   },
   "workspaceSettings": {
     "modid": "naidru_more_items_mod",
     "modName": "More Items Mod",
-    "version": "1.0.0",
-    "author": "User, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "version": "Alpha 1.0.0-1.15.2",
+    "description": "Add more items, ore, and foods to your Minecraft world!",
+    "author": "Naidru",
+    "websiteURL": "https://github.com/EpicSkullYT/More-Items-Mod/",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "logomakr_0aag0c.v1",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.15.2",
+    "credits": "Naidru",
     "modElementsPackage": "net.naidru.naidrumoreitemsmod",
     "lockBaseModFiles": false
   },

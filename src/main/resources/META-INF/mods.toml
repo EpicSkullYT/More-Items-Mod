@@ -3,11 +3,15 @@ loaderVersion="[31,)"
 
 [[mods]]
 modId="naidru_more_items_mod"
-version="1.0.0"
+version="Alpha 1.0.0-1.15.2"
 displayName="More Items Mod"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="User, MCreator"
+credits="Naidru"
+displayURL="https://github.com/EpicSkullYT/More-Items-Mod/"
+logoFile="logo.png"
+authors="Naidru"
+description='''
+Add more items, ore, and foods to your Minecraft world!
+'''
 
 [[dependencies.naidru_more_items_mod]]
     modId="minecraft"
