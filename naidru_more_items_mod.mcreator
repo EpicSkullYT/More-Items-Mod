@@ -240,35 +240,651 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "more_items_mod_tools_tab"
+    },
+    {
+      "name": "TinBlock",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_block"
+    },
+    {
+      "name": "TinBlockRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_block_recipe"
+    },
+    {
+      "name": "TiningotRecipefromBlock",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tiningot_recipefrom_block"
+    },
+    {
+      "name": "CopperOre",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore"
+    },
+    {
+      "name": "CopperOreBlock",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_block"
+    },
+    {
+      "name": "CopperIngot",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ingot"
+    },
+    {
+      "name": "CopperOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_block_recipe"
+    },
+    {
+      "name": "CopperBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_block_ore_recipe"
+    },
+    {
+      "name": "CopperOreSmelting",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_smelting"
+    },
+    {
+      "name": "CopperPickaxe",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_pickaxe"
+    },
+    {
+      "name": "CopperAxe",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe"
+    },
+    {
+      "name": "CopperSword",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword"
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel"
+    },
+    {
+      "name": "CopperHoe",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_hoe"
+    },
+    {
+      "name": "CopperPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_pickaxe_recipe"
+    },
+    {
+      "name": "CopperAxeRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe_recipe"
+    },
+    {
+      "name": "CopperSwordRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword_recipe"
+    },
+    {
+      "name": "CopperShovelRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel_recipe"
+    },
+    {
+      "name": "CopperHoeRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_hoe_recipe"
+    },
+    {
+      "name": "CopperArmor",
+      "type": "armor",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CopperArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_helmet_recipe"
+    },
+    {
+      "name": "CopperArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_body_recipe"
+    },
+    {
+      "name": "CopperArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_leggings_recipe"
+    },
+    {
+      "name": "CopperArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_boots_recipe"
+    },
+    {
+      "name": "SilverOre",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore"
+    },
+    {
+      "name": "SilverOreBlock",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore_block"
+    },
+    {
+      "name": "SilverIngot",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ingot"
+    },
+    {
+      "name": "SilverOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore_block_recipe"
+    },
+    {
+      "name": "SilverBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_block_ore_recipe"
+    },
+    {
+      "name": "SilverOreSmelting",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore_smelting"
+    },
+    {
+      "name": "SilverPickaxe",
+      "type": "tool",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_pickaxe"
+    },
+    {
+      "name": "SilverAxe",
+      "type": "tool",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_axe"
+    },
+    {
+      "name": "SilverSword",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_sword"
+    },
+    {
+      "name": "SilverShovel",
+      "type": "tool",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_shovel"
+    },
+    {
+      "name": "SilverHoe",
+      "type": "tool",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_hoe"
+    },
+    {
+      "name": "SilverPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_pickaxe_recipe"
+    },
+    {
+      "name": "SilverAxeRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_axe_recipe"
+    },
+    {
+      "name": "SilverSwordRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_sword_recipe"
+    },
+    {
+      "name": "SilverShovelRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_shovel_recipe"
+    },
+    {
+      "name": "SilverHoeRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_hoe_recipe"
+    },
+    {
+      "name": "SilverArmor",
+      "type": "armor",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "SilverArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor_helmet_recipe"
+    },
+    {
+      "name": "SilverArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor_body_recipe"
+    },
+    {
+      "name": "SilverArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor_leggings_recipe"
+    },
+    {
+      "name": "SilverArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor_boots_recipe"
+    },
+    {
+      "name": "TempleRock",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_rock"
+    },
+    {
+      "name": "TempleScrap",
+      "type": "item",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_scrap"
+    },
+    {
+      "name": "TempleArmor",
+      "type": "armor",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_armor"
+    },
+    {
+      "name": "TempleArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_armor_helmet_recipe"
+    },
+    {
+      "name": "TempleArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_armor_body_recipe"
+    },
+    {
+      "name": "TempleArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_armor_leggings_recipe"
+    },
+    {
+      "name": "TempleArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_armor_boots_recipe"
+    },
+    {
+      "name": "TemplePickaxe",
+      "type": "tool",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_pickaxe"
+    },
+    {
+      "name": "TempleAxe",
+      "type": "tool",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_axe"
+    },
+    {
+      "name": "TempleSword",
+      "type": "tool",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_sword"
+    },
+    {
+      "name": "TempleShovel",
+      "type": "tool",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_shovel"
+    },
+    {
+      "name": "TempleHoe",
+      "type": "tool",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_hoe"
+    },
+    {
+      "name": "TemplePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_pickaxe_recipe"
+    },
+    {
+      "name": "TempleAxeRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_axe_recipe"
+    },
+    {
+      "name": "TempleSwordRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_sword_recipe"
+    },
+    {
+      "name": "TempleShovelRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_shovel_recipe"
+    },
+    {
+      "name": "TempleHoeRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_hoe_recipe"
+    },
+    {
+      "name": "TempleBlock",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_block"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.naidru_more_items_mod.tin_axe": "Tin Axe",
+      "item.naidru_more_items_mod.silver_armorboots": "Silver Boots",
+      "item.naidru_more_items_mod.silver_shovel": "Silver Shovel",
+      "block.naidru_more_items_mod.copper_ore": "Copper Ore",
+      "item.naidru_more_items_mod.silver_hoe": "Silver Hoe",
+      "block.naidru_more_items_mod.copper_ore_block": "Block of Copper",
+      "block.naidru_more_items_mod.silver_ore": "Silver Ore",
+      "item.naidru_more_items_mod.tin_armorhelmet": "Tin Armor Helmet",
+      "item.naidru_more_items_mod.copper_ingot": "Copper",
+      "item.naidru_more_items_mod.copper_armorlegs": "Copper Leggings",
+      "item.naidru_more_items_mod.silver_armorhelmet": "Silver Helmet",
+      "item.naidru_more_items_mod.temple_armorhelmet": "Temple Helmet",
+      "item.naidru_more_items_mod.copper_armorboots": "Copper Boots",
+      "itemGroup.tabmore_items_mod_armor_tab": "More Items Mod - Armor",
+      "item.naidru_more_items_mod.tin_ingot": "Tin Ingot",
+      "block.naidru_more_items_mod.silver_ore_block": "Block of Silver",
+      "item.naidru_more_items_mod.copper_sword": "Copper Sword",
+      "item.naidru_more_items_mod.temple_shovel": "Temple Shovel",
+      "item.naidru_more_items_mod.temple_hoe": "Temple Hoe",
+      "block.naidru_more_items_mod.recycler": "Recycler",
+      "block.naidru_more_items_mod.temple_rock": "Temple Rock",
+      "block.naidru_more_items_mod.tin_block": "Tin Block",
+      "item.naidru_more_items_mod.temple_sword": "Temple Sword",
+      "item.naidru_more_items_mod.silver_sword": "Silver Sword",
+      "block.naidru_more_items_mod.temple_block": "Temple Block",
+      "item.naidru_more_items_mod.tin_armorlegs": "Tin Armor Leggings",
+      "item.naidru_more_items_mod.tin_shovel": "Tin Shovel",
+      "item.naidru_more_items_mod.tin_armorbody": "Tin Armor Body",
+      "item.naidru_more_items_mod.copper_hoe": "Copper Hoe",
       "itemGroup.tabmore_items_mod_ore_tab": "More Items Mod - Ore",
       "item.naidru_more_items_mod.tin_pickaxe": "Tin Pickaxe",
-      "item.naidru_more_items_mod.tin_axe": "Tin Axe",
-      "block.naidru_more_items_mod.recycler": "Recycler",
       "item.naidru_more_items_mod.tin_sword": "Tin Sword",
-      "block.naidru_more_items_mod.tin_ore": "Tin Ore",
+      "item.naidru_more_items_mod.copper_axe": "Copper Axe",
+      "item.naidru_more_items_mod.silver_pickaxe": "Silver Pickaxe",
       "itemGroup.tabmore_items_mod_misc_tab": "More Items Mod - Misc",
       "item.naidru_more_items_mod.tin_armorboots": "Tin Armor Boots",
       "itemGroup.tabmore_items_mod_tools_tab": "More Items Mod Tools Tab",
       "itemGroup.tabmore_items_mod_weapons_tab": "More Items Mod - Weapons",
-      "item.naidru_more_items_mod.tin_armorhelmet": "Tin Armor Helmet",
+      "item.naidru_more_items_mod.temple_scrap": "Temple Scrap",
+      "item.naidru_more_items_mod.silver_armorbody": "Silver Chestplate",
+      "item.naidru_more_items_mod.silver_armorlegs": "Silver Leggings",
+      "item.naidru_more_items_mod.copper_pickaxe": "Copper Pickaxe",
+      "item.naidru_more_items_mod.silver_axe": "Silver Axe",
+      "item.naidru_more_items_mod.temple_pickaxe": "Temple Pickaxe",
+      "block.naidru_more_items_mod.tin_ore": "Tin Ore",
+      "item.naidru_more_items_mod.temple_armorbody": "Temple Chestplate",
+      "item.naidru_more_items_mod.copper_shovel": "Copper Shovel",
+      "item.naidru_more_items_mod.copper_armorhelmet": "Copper Helmet",
+      "item.naidru_more_items_mod.copper_armorbody": "Copper Chestplate",
+      "item.naidru_more_items_mod.temple_armorlegs": "Temple Leggings",
+      "item.naidru_more_items_mod.temple_axe": "Temple Axe",
       "item.naidru_more_items_mod.tin_hoe": "Tin Hoe",
-      "item.naidru_more_items_mod.tin_armorlegs": "Tin Armor Leggings",
-      "item.naidru_more_items_mod.tin_shovel": "Tin Shovel",
-      "itemGroup.tabmore_items_mod_armor_tab": "More Items Mod - Armor",
-      "item.naidru_more_items_mod.tin_ingot": "Tin Ingot",
-      "item.naidru_more_items_mod.tin_armorbody": "Tin Armor Body"
+      "item.naidru_more_items_mod.temple_armorboots": "Temple Boots",
+      "item.naidru_more_items_mod.silver_ingot": "Silver"
     }
   },
   "workspaceSettings": {
     "modid": "naidru_more_items_mod",
     "modName": "More Items Mod",
-    "version": "Alpha 1.0.0-1.15.2",
+    "version": "Alpha 1.1.0-1.15.2",
     "description": "Add more items, ore, and foods to your Minecraft world!",
     "author": "Naidru",
     "websiteURL": "https://github.com/EpicSkullYT/More-Items-Mod/",
@@ -280,7 +896,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.15.2",
-    "credits": "Naidru",
+    "credits": "N/A",
     "modElementsPackage": "net.naidru.naidrumoreitemsmod",
     "lockBaseModFiles": false
   },

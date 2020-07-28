@@ -1,0 +1,13 @@
+{
+  "group": "naidru_more_items_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "naidru_more_items_mod:silver_ore_block"
+    }
+  ],
+  "result": {
+    "item": "naidru_more_items_mod:silver_ingot",
+    "count": 9
+  }
+}
