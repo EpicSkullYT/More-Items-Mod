@@ -3,14 +3,14 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "tin_axe",
+    "texture": "tin_hoe",
     "customModelName": "Normal",
-    "name": "Tin Axe",
+    "name": "Tin Hoe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },
-    "toolType": "Axe",
+    "toolType": "Hoe",
     "harvestLevel": 1,
     "efficiency": 5.0,
     "attackSpeed": 1.0,

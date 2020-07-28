@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "naidru_more_items_mod:items/tin_axe"
+    "layer0": "naidru_more_items_mod:items/tin_hoe"
   }
 }

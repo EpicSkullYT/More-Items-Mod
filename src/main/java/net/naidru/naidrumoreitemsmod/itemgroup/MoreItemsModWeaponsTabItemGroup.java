@@ -1,7 +1,7 @@
 
 package net.naidru.naidrumoreitemsmod.itemgroup;
 
-import net.naidru.naidrumoreitemsmod.item.TinAxeItem;
+import net.naidru.naidrumoreitemsmod.item.TinSwordItem;
 import net.naidru.naidrumoreitemsmod.NaidruMoreItemsModModElements;
 
 import net.minecraftforge.api.distmarker.OnlyIn;
@@ -22,7 +22,7 @@ public class MoreItemsModWeaponsTabItemGroup extends NaidruMoreItemsModModElemen
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(TinAxeItem.block, (int) (1));
+				return new ItemStack(TinSwordItem.block, (int) (1));
 			}
 
 			@OnlyIn(Dist.CLIENT)

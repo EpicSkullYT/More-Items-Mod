@@ -89,15 +89,6 @@
       "registry_name": "tin_boots"
     },
     {
-      "name": "TinAxe",
-      "type": "tool",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "tin_axe"
-    },
-    {
       "name": "Recycler",
       "type": "block",
       "sortid": 11,
@@ -150,6 +141,96 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "more_items_mod_armor_tab"
+    },
+    {
+      "name": "TinPickaxe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_pickaxe"
+    },
+    {
+      "name": "TinAxe",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_axe"
+    },
+    {
+      "name": "TinSword",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_sword"
+    },
+    {
+      "name": "TinShovel",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_shovel"
+    },
+    {
+      "name": "TinHoe",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_hoe"
+    },
+    {
+      "name": "TinPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_pickaxe_recipe"
+    },
+    {
+      "name": "TinAxeRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_axe_recipe"
+    },
+    {
+      "name": "TinSwordRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_sword_recipe"
+    },
+    {
+      "name": "TinShovelRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_shovel_recipe"
+    },
+    {
+      "name": "TinHoeRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_hoe_recipe"
     }
   ],
   "variable_elements": [],
@@ -157,14 +238,18 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabmore_items_mod_ore_tab": "More Items Mod - Ore",
-      "item.naidru_more_items_mod.tin_axe": "Tin Axe",
+      "item.naidru_more_items_mod.tin_pickaxe": "Tin Pickaxe",
       "block.naidru_more_items_mod.recycler": "Recycler",
+      "item.naidru_more_items_mod.tin_axe": "Tin Axe",
+      "item.naidru_more_items_mod.tin_sword": "Tin Sword",
       "block.naidru_more_items_mod.tin_ore": "Tin Ore",
       "itemGroup.tabmore_items_mod_misc_tab": "More Items Mod - Misc",
       "item.naidru_more_items_mod.tin_armorboots": "Tin Armor Boots",
       "itemGroup.tabmore_items_mod_weapons_tab": "More Items Mod - Weapons",
       "item.naidru_more_items_mod.tin_armorhelmet": "Tin Armor Helmet",
+      "item.naidru_more_items_mod.tin_hoe": "Tin Hoe",
       "item.naidru_more_items_mod.tin_armorlegs": "Tin Armor Leggings",
+      "item.naidru_more_items_mod.tin_shovel": "Tin Shovel",
       "itemGroup.tabmore_items_mod_armor_tab": "More Items Mod - Armor",
       "item.naidru_more_items_mod.tin_ingot": "Tin Ingot",
       "item.naidru_more_items_mod.tin_armorbody": "Tin Armor Body"

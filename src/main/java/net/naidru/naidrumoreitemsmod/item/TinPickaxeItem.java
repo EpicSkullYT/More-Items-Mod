@@ -6,22 +6,22 @@ import net.naidru.naidrumoreitemsmod.NaidruMoreItemsModModElements;
 import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.crafting.Ingredient;
+import net.minecraft.item.PickaxeItem;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
-import net.minecraft.item.AxeItem;
 
 @NaidruMoreItemsModModElements.ModElement.Tag
-public class TinAxeItem extends NaidruMoreItemsModModElements.ModElement {
-	@ObjectHolder("naidru_more_items_mod:tin_axe")
+public class TinPickaxeItem extends NaidruMoreItemsModModElements.ModElement {
+	@ObjectHolder("naidru_more_items_mod:tin_pickaxe")
 	public static final Item block = null;
-	public TinAxeItem(NaidruMoreItemsModModElements instance) {
-		super(instance, 18);
+	public TinPickaxeItem(NaidruMoreItemsModModElements instance) {
+		super(instance, 17);
 	}
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new AxeItem(new IItemTier() {
+		elements.items.add(() -> new PickaxeItem(new IItemTier() {
 			public int getMaxUses() {
 				return 152;
 			}
@@ -46,6 +46,6 @@ public class TinAxeItem extends NaidruMoreItemsModModElements.ModElement {
 				return Ingredient.EMPTY;
 			}
 		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
-		}.setRegistryName("tin_axe"));
+		}.setRegistryName("tin_pickaxe"));
 	}
 }

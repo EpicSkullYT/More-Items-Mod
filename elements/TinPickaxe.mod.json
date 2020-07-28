@@ -3,14 +3,14 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "tin_axe",
+    "texture": "tin_pickaxe",
     "customModelName": "Normal",
-    "name": "Tin Axe",
+    "name": "Tin Pickaxe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },
-    "toolType": "Axe",
+    "toolType": "Pickaxe",
     "harvestLevel": 1,
     "efficiency": 5.0,
     "attackSpeed": 1.0,
