@@ -8,7 +8,7 @@
     "name": "Tin Sword",
     "specialInfo": [],
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:MoreItemsModWeaponsTab"
     },
     "toolType": "Sword",
     "harvestLevel": 1,

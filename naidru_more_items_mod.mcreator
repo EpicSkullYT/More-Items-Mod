@@ -4,7 +4,7 @@
     {
       "name": "TinOre",
       "type": "block",
-      "sortid": 1,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -13,7 +13,7 @@
     {
       "name": "TinIngot",
       "type": "item",
-      "sortid": 2,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -22,7 +22,7 @@
     {
       "name": "TinIngotFurnace",
       "type": "recipe",
-      "sortid": 3,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -31,7 +31,7 @@
     {
       "name": "TinArmor",
       "type": "armor",
-      "sortid": 4,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -46,7 +46,7 @@
     {
       "name": "TinIngotBlastFurnace",
       "type": "recipe",
-      "sortid": 5,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -55,7 +55,7 @@
     {
       "name": "TinHelmet",
       "type": "recipe",
-      "sortid": 6,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -64,7 +64,7 @@
     {
       "name": "TinChestplate",
       "type": "recipe",
-      "sortid": 7,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -73,7 +73,7 @@
     {
       "name": "TinLeggings",
       "type": "recipe",
-      "sortid": 8,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -82,7 +82,7 @@
     {
       "name": "TinBoots",
       "type": "recipe",
-      "sortid": 9,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -91,7 +91,7 @@
     {
       "name": "Recycler",
       "type": "block",
-      "sortid": 11,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -100,7 +100,7 @@
     {
       "name": "RecyclerGUI",
       "type": "gui",
-      "sortid": 12,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -109,7 +109,7 @@
     {
       "name": "MoreItemsModWeaponsTab",
       "type": "tab",
-      "sortid": 13,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -118,7 +118,7 @@
     {
       "name": "MoreItemsModOreTab",
       "type": "tab",
-      "sortid": 14,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -127,7 +127,7 @@
     {
       "name": "MoreItemsModMiscTab",
       "type": "tab",
-      "sortid": 15,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -136,7 +136,7 @@
     {
       "name": "MoreItemsModArmorTab",
       "type": "tab",
-      "sortid": 16,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -145,7 +145,7 @@
     {
       "name": "TinPickaxe",
       "type": "tool",
-      "sortid": 17,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -154,7 +154,7 @@
     {
       "name": "TinAxe",
       "type": "tool",
-      "sortid": 18,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -163,7 +163,7 @@
     {
       "name": "TinSword",
       "type": "tool",
-      "sortid": 19,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -172,7 +172,7 @@
     {
       "name": "TinShovel",
       "type": "tool",
-      "sortid": 20,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -181,7 +181,7 @@
     {
       "name": "TinHoe",
       "type": "tool",
-      "sortid": 21,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -190,7 +190,7 @@
     {
       "name": "TinPickaxeRecipe",
       "type": "recipe",
-      "sortid": 22,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -199,7 +199,7 @@
     {
       "name": "TinAxeRecipe",
       "type": "recipe",
-      "sortid": 23,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -208,7 +208,7 @@
     {
       "name": "TinSwordRecipe",
       "type": "recipe",
-      "sortid": 24,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -217,7 +217,7 @@
     {
       "name": "TinShovelRecipe",
       "type": "recipe",
-      "sortid": 25,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -226,11 +226,20 @@
     {
       "name": "TinHoeRecipe",
       "type": "recipe",
-      "sortid": 26,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "tin_hoe_recipe"
+    },
+    {
+      "name": "MoreItemsModToolsTab",
+      "type": "tab",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_items_mod_tools_tab"
     }
   ],
   "variable_elements": [],
@@ -239,12 +248,13 @@
     "en_us": {
       "itemGroup.tabmore_items_mod_ore_tab": "More Items Mod - Ore",
       "item.naidru_more_items_mod.tin_pickaxe": "Tin Pickaxe",
-      "block.naidru_more_items_mod.recycler": "Recycler",
       "item.naidru_more_items_mod.tin_axe": "Tin Axe",
+      "block.naidru_more_items_mod.recycler": "Recycler",
       "item.naidru_more_items_mod.tin_sword": "Tin Sword",
       "block.naidru_more_items_mod.tin_ore": "Tin Ore",
       "itemGroup.tabmore_items_mod_misc_tab": "More Items Mod - Misc",
       "item.naidru_more_items_mod.tin_armorboots": "Tin Armor Boots",
+      "itemGroup.tabmore_items_mod_tools_tab": "More Items Mod Tools Tab",
       "itemGroup.tabmore_items_mod_weapons_tab": "More Items Mod - Weapons",
       "item.naidru_more_items_mod.tin_armorhelmet": "Tin Armor Helmet",
       "item.naidru_more_items_mod.tin_hoe": "Tin Hoe",

@@ -1,13 +1,13 @@
 
 package net.naidru.naidrumoreitemsmod.item;
 
+import net.naidru.naidrumoreitemsmod.itemgroup.MoreItemsModToolsTabItemGroup;
 import net.naidru.naidrumoreitemsmod.NaidruMoreItemsModModElements;
 
 import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.item.PickaxeItem;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
 
@@ -16,7 +16,7 @@ public class TinPickaxeItem extends NaidruMoreItemsModModElements.ModElement {
 	@ObjectHolder("naidru_more_items_mod:tin_pickaxe")
 	public static final Item block = null;
 	public TinPickaxeItem(NaidruMoreItemsModModElements instance) {
-		super(instance, 17);
+		super(instance, 5);
 	}
 
 	@Override
@@ -45,7 +45,7 @@ public class TinPickaxeItem extends NaidruMoreItemsModModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.EMPTY;
 			}
-		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
+		}, 1, -3f, new Item.Properties().group(MoreItemsModToolsTabItemGroup.tab)) {
 		}.setRegistryName("tin_pickaxe"));
 	}
 }
