@@ -1,0 +1,12 @@
+{
+  "group": "naidru_more_items_mod",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "naidru_more_items_mod:tin_ore"
+  },
+  "result": {
+    "item": "naidru_more_items_mod:tin_ingot"
+  }
+}

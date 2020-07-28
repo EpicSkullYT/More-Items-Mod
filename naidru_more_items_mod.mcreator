@@ -27,14 +27,88 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tin_ingot_furnace"
+    },
+    {
+      "name": "TinArmor",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TinIngotBlastFurnace",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ingot_blast_furnace"
+    },
+    {
+      "name": "TinHelmet",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_helmet"
+    },
+    {
+      "name": "TinChestplate",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_chestplate"
+    },
+    {
+      "name": "TinLeggings",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_leggings"
+    },
+    {
+      "name": "TinBoots",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_boots"
+    },
+    {
+      "name": "TinAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_axe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.naidru_more_items_mod.tin_armorboots": "Tin Armor Boots",
+      "item.naidru_more_items_mod.tin_armorhelmet": "Tin Armor Helmet",
+      "item.naidru_more_items_mod.tin_axe": "Tin Axe",
       "block.naidru_more_items_mod.tin_ore": "Tin Ore",
-      "item.naidru_more_items_mod.tin_ingot": "Tin Ingot"
+      "item.naidru_more_items_mod.tin_armorlegs": "Tin Armor Leggings",
+      "item.naidru_more_items_mod.tin_ingot": "Tin Ingot",
+      "item.naidru_more_items_mod.tin_armorbody": "Tin Armor Body"
     }
   },
   "workspaceSettings": {
