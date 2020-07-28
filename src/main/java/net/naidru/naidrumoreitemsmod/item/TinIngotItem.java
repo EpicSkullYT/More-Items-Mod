@@ -1,12 +1,12 @@
 
 package net.naidru.naidrumoreitemsmod.item;
 
+import net.naidru.naidrumoreitemsmod.itemgroup.MoreItemsModOreTabItemGroup;
 import net.naidru.naidrumoreitemsmod.NaidruMoreItemsModModElements;
 
 import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
@@ -24,7 +24,7 @@ public class TinIngotItem extends NaidruMoreItemsModModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64));
+			super(new Item.Properties().group(MoreItemsModOreTabItemGroup.tab).maxStackSize(64));
 			setRegistryName("tin_ingot");
 		}
 

@@ -105,18 +105,67 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "recycler"
+    },
+    {
+      "name": "RecyclerGUI",
+      "type": "gui",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recycler_gui"
+    },
+    {
+      "name": "MoreItemsModWeaponsTab",
+      "type": "tab",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_items_mod_weapons_tab"
+    },
+    {
+      "name": "MoreItemsModOreTab",
+      "type": "tab",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_items_mod_ore_tab"
+    },
+    {
+      "name": "MoreItemsModMiscTab",
+      "type": "tab",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_items_mod_misc_tab"
+    },
+    {
+      "name": "MoreItemsModArmorTab",
+      "type": "tab",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_items_mod_armor_tab"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.naidru_more_items_mod.tin_armorboots": "Tin Armor Boots",
-      "item.naidru_more_items_mod.tin_armorhelmet": "Tin Armor Helmet",
+      "itemGroup.tabmore_items_mod_ore_tab": "More Items Mod - Ore",
       "item.naidru_more_items_mod.tin_axe": "Tin Axe",
       "block.naidru_more_items_mod.recycler": "Recycler",
       "block.naidru_more_items_mod.tin_ore": "Tin Ore",
+      "itemGroup.tabmore_items_mod_misc_tab": "More Items Mod - Misc",
+      "item.naidru_more_items_mod.tin_armorboots": "Tin Armor Boots",
+      "itemGroup.tabmore_items_mod_weapons_tab": "More Items Mod - Weapons",
+      "item.naidru_more_items_mod.tin_armorhelmet": "Tin Armor Helmet",
       "item.naidru_more_items_mod.tin_armorlegs": "Tin Armor Leggings",
+      "itemGroup.tabmore_items_mod_armor_tab": "More Items Mod - Armor",
       "item.naidru_more_items_mod.tin_ingot": "Tin Ingot",
       "item.naidru_more_items_mod.tin_armorbody": "Tin Armor Body"
     }

@@ -1,0 +1,25 @@
+{
+  "_fv": 8,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 362,
+    "height": 336,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Recycler",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Recycler",
+          "x": 386,
+          "y": 72
+        }
+      }
+    ]
+  }
+}

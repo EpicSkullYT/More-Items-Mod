@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "More Items Mod - Armor",
+    "icon": {
+      "value": "CUSTOM:TinArmor.helmet"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "More Items Mod - Ore",
+    "icon": {
+      "value": "CUSTOM:TinIngot"
+    },
+    "showSearch": true
+  }
+}

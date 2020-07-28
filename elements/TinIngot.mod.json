@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "name": "Tin Ingot",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:MoreItemsModOreTab"
     },
     "stackSize": 64,
     "enchantability": 0,
