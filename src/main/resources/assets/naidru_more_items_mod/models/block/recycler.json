@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "naidru_more_items_mod:blocks/recyclerbottom",
+    "up": "naidru_more_items_mod:blocks/recyclertop",
+    "north": "naidru_more_items_mod:blocks/recyclerside",
+    "east": "naidru_more_items_mod:blocks/recyclerside",
+    "south": "naidru_more_items_mod:blocks/recyclerside",
+    "west": "naidru_more_items_mod:blocks/recyclerside",
+    "particle": "naidru_more_items_mod:blocks/recyclerbottom"
+  }
+}

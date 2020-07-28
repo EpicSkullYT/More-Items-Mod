@@ -96,6 +96,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tin_axe"
+    },
+    {
+      "name": "Recycler",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recycler"
     }
   ],
   "variable_elements": [],
@@ -105,6 +114,7 @@
       "item.naidru_more_items_mod.tin_armorboots": "Tin Armor Boots",
       "item.naidru_more_items_mod.tin_armorhelmet": "Tin Armor Helmet",
       "item.naidru_more_items_mod.tin_axe": "Tin Axe",
+      "block.naidru_more_items_mod.recycler": "Recycler",
       "block.naidru_more_items_mod.tin_ore": "Tin Ore",
       "item.naidru_more_items_mod.tin_armorlegs": "Tin Armor Leggings",
       "item.naidru_more_items_mod.tin_ingot": "Tin Ingot",
