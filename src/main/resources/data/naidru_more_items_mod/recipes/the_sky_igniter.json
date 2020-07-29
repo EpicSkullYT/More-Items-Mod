@@ -1,0 +1,42 @@
+{
+  "group": "naidru_more_items_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:snowball"
+    },
+    "1": {
+      "item": "minecraft:snowball"
+    },
+    "2": {
+      "item": "minecraft:snowball"
+    },
+    "3": {
+      "item": "minecraft:snow_block"
+    },
+    "4": {
+      "item": "minecraft:glowstone"
+    },
+    "5": {
+      "item": "minecraft:snow_block"
+    },
+    "6": {
+      "item": "minecraft:snowball"
+    },
+    "7": {
+      "item": "minecraft:snowball"
+    },
+    "8": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "result": {
+    "item": "naidru_more_items_mod:the_sky",
+    "count": 1
+  }
+}

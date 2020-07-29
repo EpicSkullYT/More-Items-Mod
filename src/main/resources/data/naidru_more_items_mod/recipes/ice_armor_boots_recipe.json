@@ -1,0 +1,26 @@
+{
+  "group": "naidru_more_items_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ice"
+    },
+    "2": {
+      "item": "minecraft:ice"
+    },
+    "3": {
+      "item": "minecraft:ice"
+    },
+    "5": {
+      "item": "minecraft:ice"
+    }
+  },
+  "result": {
+    "item": "naidru_more_items_mod:ice_armorboots",
+    "count": 1
+  }
+}
