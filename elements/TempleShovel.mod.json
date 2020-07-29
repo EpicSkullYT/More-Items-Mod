@@ -8,7 +8,7 @@
     "name": "Temple Shovel",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:MoreItemsModToolsTab"
     },
     "toolType": "Spade",
     "harvestLevel": 4,

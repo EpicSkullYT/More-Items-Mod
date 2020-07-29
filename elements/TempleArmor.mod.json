@@ -11,7 +11,7 @@
     "enableBoots": true,
     "textureBoots": "temple_boots",
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:MoreItemsModArmorTab"
     },
     "armorTextureFile": "temple",
     "helmetName": "Temple Helmet",

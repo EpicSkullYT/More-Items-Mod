@@ -8,7 +8,7 @@
     "name": "Temple Sword",
     "specialInfo": [],
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:MoreItemsModWeaponsTab"
     },
     "toolType": "Sword",
     "harvestLevel": 4,

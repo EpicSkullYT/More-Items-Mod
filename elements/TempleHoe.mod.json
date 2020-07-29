@@ -8,7 +8,7 @@
     "name": "Temple Hoe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:MoreItemsModWeaponsTab"
     },
     "toolType": "Hoe",
     "harvestLevel": 4,

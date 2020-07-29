@@ -683,7 +683,13 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "temple_armor"
+      "registry_name": "temple_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "TempleArmorHelmetRecipe",
@@ -884,7 +890,7 @@
   "workspaceSettings": {
     "modid": "naidru_more_items_mod",
     "modName": "More Items Mod",
-    "version": "Alpha 1.2.0-1.15.2",
+    "version": "Alpha 1.2.1-1.15.2",
     "description": "Add more items, ore, and foods to your Minecraft world!",
     "author": "Naidru",
     "websiteURL": "https://github.com/EpicSkullYT/More-Items-Mod/",
