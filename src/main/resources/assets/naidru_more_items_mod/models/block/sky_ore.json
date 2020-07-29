@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "naidru_more_items_mod:blocks/sky_ore",
+    "particle": "naidru_more_items_mod:blocks/sky_ore"
+  }
+}

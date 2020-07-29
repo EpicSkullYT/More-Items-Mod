@@ -1,0 +1,26 @@
+{
+  "group": "naidru_more_items_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "naidru_more_items_mod:sky_dust"
+    },
+    "2": {
+      "item": "naidru_more_items_mod:sky_dust"
+    },
+    "3": {
+      "item": "naidru_more_items_mod:sky_dust"
+    },
+    "5": {
+      "item": "naidru_more_items_mod:sky_dust"
+    }
+  },
+  "result": {
+    "item": "naidru_more_items_mod:sky_armorboots",
+    "count": 1
+  }
+}

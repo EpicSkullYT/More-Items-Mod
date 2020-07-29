@@ -1,0 +1,36 @@
+{
+  "group": "naidru_more_items_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "naidru_more_items_mod:sky_dust"
+    },
+    "1": {
+      "item": "naidru_more_items_mod:sky_dust"
+    },
+    "2": {
+      "item": "naidru_more_items_mod:sky_dust"
+    },
+    "3": {
+      "item": "naidru_more_items_mod:sky_dust"
+    },
+    "5": {
+      "item": "naidru_more_items_mod:sky_dust"
+    },
+    "6": {
+      "item": "naidru_more_items_mod:sky_dust"
+    },
+    "8": {
+      "item": "naidru_more_items_mod:sky_dust"
+    }
+  },
+  "result": {
+    "item": "naidru_more_items_mod:sky_armorlegs",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "naidru_more_items_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "naidru_more_items_mod:sky_ore_block"
+    }
+  ],
+  "result": {
+    "item": "naidru_more_items_mod:sky_dust",
+    "count": 9
+  }
+}

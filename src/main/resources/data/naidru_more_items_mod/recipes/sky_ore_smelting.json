@@ -1,0 +1,12 @@
+{
+  "group": "naidru_more_items_mod",
+  "type": "minecraft:smelting",
+  "experience": 2.8,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "naidru_more_items_mod:sky_ore"
+  },
+  "result": {
+    "item": "naidru_more_items_mod:sky_dust"
+  }
+}
