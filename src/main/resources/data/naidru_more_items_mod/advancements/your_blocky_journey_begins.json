@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "naidru_more_items_mod:tin_ingot"
+    },
+    "title": {
+      "translate": "advancements.your_blocky_journey_begins.title"
+    },
+    "description": {
+      "translate": "advancements.your_blocky_journey_begins.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "your_blocky_journey_begins": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}
