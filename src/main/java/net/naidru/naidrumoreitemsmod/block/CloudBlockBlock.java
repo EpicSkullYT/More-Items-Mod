@@ -1,7 +1,7 @@
 
 package net.naidru.naidrumoreitemsmod.block;
 
-import net.naidru.naidrumoreitemsmod.itemgroup.MoreItemsModWeaponsTabItemGroup;
+import net.naidru.naidrumoreitemsmod.itemgroup.MoreItemsModMiscTabItemGroup;
 import net.naidru.naidrumoreitemsmod.NaidruMoreItemsModModElements;
 
 import net.minecraftforge.registries.ObjectHolder;
@@ -36,8 +36,8 @@ public class CloudBlockBlock extends NaidruMoreItemsModModElements.ModElement {
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(MoreItemsModWeaponsTabItemGroup.tab))
-				.setRegistryName(block.getRegistryName()));
+		elements.items.add(
+				() -> new BlockItem(block, new Item.Properties().group(MoreItemsModMiscTabItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 
 	@Override

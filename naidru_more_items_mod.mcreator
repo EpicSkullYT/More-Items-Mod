@@ -1431,7 +1431,7 @@
       "item.naidru_more_items_mod.silver_axe": "Silver Axe",
       "item.naidru_more_items_mod.temple_pickaxe": "Temple Pickaxe",
       "item.naidru_more_items_mod.emerald_armorlegs": "Emerald Leggings",
-      "item.naidru_more_items_mod.sky_dust": "Sky",
+      "item.naidru_more_items_mod.sky_dust": "Sky Dust",
       "block.naidru_more_items_mod.tin_ore": "Tin Ore",
       "item.naidru_more_items_mod.temple_armorbody": "Temple Chestplate",
       "item.naidru_more_items_mod.copper_shovel": "Copper Shovel",
@@ -1453,7 +1453,7 @@
   "workspaceSettings": {
     "modid": "naidru_more_items_mod",
     "modName": "More Items Mod",
-    "version": "Alpha 1.2.1-1.15.2",
+    "version": "Alpha 1.3.0-1.15.2",
     "description": "Add more items, ore, and foods to your Minecraft world!",
     "author": "Naidru",
     "websiteURL": "https://github.com/EpicSkullYT/More-Items-Mod/",

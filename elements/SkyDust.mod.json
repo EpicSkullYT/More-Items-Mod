@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "sky_dust",
     "customModelName": "Normal",
-    "name": "Sky",
+    "name": "Sky Dust",
     "creativeTab": {
       "value": "CUSTOM:MoreItemsModOreTab"
     },

@@ -665,12 +665,12 @@ public class TheSkyDimension extends NaidruMoreItemsModModElements.ModElement {
 
 		@Override
 		public boolean isSurfaceWorld() {
-			return true;
+			return false;
 		}
 
 		@Override
 		public boolean canRespawnHere() {
-			return true;
+			return false;
 		}
 
 		@OnlyIn(Dist.CLIENT)

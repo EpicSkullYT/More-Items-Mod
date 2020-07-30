@@ -31,7 +31,7 @@ public class IceSwordItem extends NaidruMoreItemsModModElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 2f;
+				return 58f;
 			}
 
 			public int getHarvestLevel() {
