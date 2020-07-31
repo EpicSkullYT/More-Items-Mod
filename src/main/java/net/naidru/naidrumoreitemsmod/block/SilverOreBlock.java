@@ -2,7 +2,6 @@
 package net.naidru.naidrumoreitemsmod.block;
 
 import net.naidru.naidrumoreitemsmod.itemgroup.MoreItemsModOreTabItemGroup;
-import net.naidru.naidrumoreitemsmod.item.SilverIngotItem;
 import net.naidru.naidrumoreitemsmod.NaidruMoreItemsModModElements;
 
 import net.minecraftforge.registries.ObjectHolder;
@@ -60,7 +59,7 @@ public class SilverOreBlock extends NaidruMoreItemsModModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(SilverIngotItem.block, (int) (1)));
+			return Collections.singletonList(new ItemStack(this, 1));
 		}
 	}
 	@Override
